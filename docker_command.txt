@@ -1,0 +1,1 @@
+docker run --rm -v H:\labs\rubylab\skript.rb:/skript.rb ruby:latest ruby /skript.rb
